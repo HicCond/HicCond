@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HicCond
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on idk :/
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me: Discord HicCond#7081
 
 <!---
